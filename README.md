@@ -120,6 +120,16 @@ This work is licensed under the [MIT License](LICENSE).
 
 ---
 
+## Related Work
+
+This audit established that shortcut learning distorts genomic subtyping. The methodological successor extends the same question to a domain where the causal ground truth is externally known:
+
+> **[tumor-microbiome-causality-audit](https://github.com/julian-borges-md/tumor-microbiome-causality-audit)** — *Cross-sectional intratumoral microbial abundance cannot establish causation.* Shows that the two significance tests most commonly reported in tumor microbiome research both pass on data constructed to contain no biological signal, in ten of ten seeds, and that an IARC Group 1 carcinogen appears **depleted** at the tumor site it causes. Extends to Mendelian randomization of 211 gut taxa with replication in 100,204 colorectal cancer cases.
+
+Together these form a programme on a single question: **when a computational result is reported, could the validation have detected its absence?**
+
+---
+
 <div align="center">
 
 **Frontier Translational Research Lab**
